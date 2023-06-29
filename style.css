@@ -122,3 +122,13 @@ button {
     font-weight: bolder;
     margin-left: auto;
 }
+
+.sign-up-section {
+    background-color:#3882f6;
+    display: flex;
+}
+
+.sign-up {
+    border: 5px solid white;
+    flex-grow: 0;
+}
