@@ -105,8 +105,15 @@ button {
 .quote-section {
     background-color: #e5e7eb;
     display: flex;
+    justify-content: center;
+    padding: 150px 200px;
+}
+
+.quote-text {
+    width: 1000px;
+    display: flex;
     flex-direction: column;
-    padding: 150px 550px;
+    flex-shrink: 1;
 }
 
 .quote {
