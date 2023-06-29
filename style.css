@@ -130,6 +130,7 @@ button {
     align-items: center;
     margin: 100px 200px;
     padding: 40px 100px;
+    border-radius: 12px;
 }
 
 .sign-up {
