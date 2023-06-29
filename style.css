@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #1f2973;
+    background-color: #1f2937;
     padding: 0 200px;
 }
 
@@ -40,7 +40,7 @@ ul {
 }
 
 .content {
-    background-color: #1f2973;
+    background-color: #1f2937;
     display: flex;
     justify-content: space-between;
     gap: 64px;
