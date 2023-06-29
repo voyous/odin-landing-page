@@ -51,3 +51,13 @@ ul {
 .content-image {
     width: 600px;
 }
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 32px;
+}
