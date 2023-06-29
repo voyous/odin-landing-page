@@ -101,3 +101,20 @@ button {
 .card-text {
     color: grey;
 }
+
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+}
+
+.quote-author {
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: bolder;
+}
