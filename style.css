@@ -40,5 +40,8 @@ a {
 
 .content {
     background-color: #1f2973;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 300px;
     margin: 0;
 }
