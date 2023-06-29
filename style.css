@@ -140,7 +140,10 @@ button {
 
 .footer {
     background-color: #1f2937;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 38px;
 }
 
 .footer-text {
