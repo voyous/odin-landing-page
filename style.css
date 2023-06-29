@@ -67,3 +67,20 @@ button {
     font-size: 36px;
     font-weight: bolder;
 }
+
+.second-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #3882f6;
+}
