@@ -134,6 +134,6 @@ button {
 }
 
 .sign-up {
-    border: 5px solid white;
+    border: 2px solid #e5e7eb;
     flex-grow: 0;
 }
