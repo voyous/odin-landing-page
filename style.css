@@ -49,7 +49,9 @@ ul {
 }
 
 .content-image {
-    width: 600px;
+    width: 500px;
+    background-color: grey;
+    flex: none;
 }
 
 button {
