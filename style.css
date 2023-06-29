@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2973;
+}
