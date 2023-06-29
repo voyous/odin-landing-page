@@ -8,6 +8,23 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #1f2973;
     padding: 0 300px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.right-links {
+    display: flex;
+    align-items: center;
+    gap: 24px;
 }
